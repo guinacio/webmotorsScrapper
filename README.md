@@ -15,6 +15,7 @@ This Python script is designed to extract and compare car prices from the Webmot
 
 ```
 git clone https://github.com/guinacio/webmotorsScrapper.git
+cd webmotorsScrapper
 ```
 
 2. Install the required dependencies:
